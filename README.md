@@ -18,7 +18,7 @@ A simple CNN consisting of:
 ## Training
 - **Loss Function**: CrossEntropyLoss
 - **Optimizer**: Adam
-- **Epochs**: 20
+- **Epochs**: 10
 - **Batch Size**: 32
 
 ## Evaluation Metrics
