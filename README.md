@@ -24,7 +24,7 @@ A simple CNN consisting of:
 ## Evaluation Metrics
 Model performance on the validation set:
 
-Accuracy  : 95.12%
+Accuracy : 95.12%
 Precision : 96.56% (class 1), 92.86% (class 0)
-Recall    : 95.49% (class 1), 94.50% (class 0)
-F1-Score  : 96.02% (class 1), 93.67% (class 0)
+Recall : 95.49% (class 1), 94.50% (class 0)
+F1-Score : 96.02% (class 1), 93.67% (class 0)
